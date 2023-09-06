@@ -3,4 +3,4 @@
 
 
 
-All the code are attached below the report in the pdf file.
+All the R code implementations are attached in the pdf file.
